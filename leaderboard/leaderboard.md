@@ -6,3 +6,4 @@
 | 3 | Sanae ZRIGUI | **0.62051443** | human | `GCN ` | 2026-03-07 21:24:20 UTC |
 | 4 | VinitSingroha | **0.60909841** | human | `Dual-Path Degree-Gated GraphSAGE` | 2026-03-07 19:06:09 UTC |
 | 5 | Tasneem Selim | **0.59802280** | human | `` | 2026-03-06 21:05:52 UTC |
+| 6 | NoorMajdoub | **0.48952987** | human | `GAT` | 2026-03-14 15:54:24 UTC |

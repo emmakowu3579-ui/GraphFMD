@@ -14,3 +14,4 @@
 | 11 | mahatrabelsi1 | **0.58539933** | human | `` | 2026-03-28 21:07:08 UTC |
 | 12 | samuelmatia | **0.52378556** | human | `Hybrid GNN` | 2026-03-27 12:20:52 UTC |
 | 13 | NoorMajdoub | **0.48952987** | human | `GAT` | 2026-03-14 15:54:24 UTC |
+| 14 | abdksm | **0.40297732** | human | `GCN` | 2026-04-03 11:10:56 UTC |

@@ -7,11 +7,12 @@
 | 4 | Sargam1412 | **0.76659330** | human | `BiGCN` | 2026-03-31 14:31:39 UTC |
 | 5 | bjayadikary | **0.71094004** | human | `GCN` | 2026-03-23 01:40:28 UTC |
 | 6 | hadilaff | **0.66942255** | human | `GraphSAGE (3-layer)` | 2026-03-05 08:26:00 UTC |
-| 7 | Sanae ZRIGUI | **0.62051443** | human | `GCN ` | 2026-03-07 21:24:20 UTC |
-| 8 | emmakowu3579-ui | **0.61423345** | human | `Inductive GraphSAGE` | 2026-03-21 15:46:50 UTC |
-| 9 | VinitSingroha | **0.60909841** | human | `Dual-Path Degree-Gated GraphSAGE` | 2026-03-07 19:06:09 UTC |
-| 10 | Tasneem Selim | **0.59802280** | human | `` | 2026-03-06 21:05:52 UTC |
-| 11 | mahatrabelsi1 | **0.58539933** | human | `` | 2026-03-28 21:07:08 UTC |
-| 12 | samuelmatia | **0.52378556** | human | `Hybrid GNN` | 2026-03-27 12:20:52 UTC |
-| 13 | NoorMajdoub | **0.48952987** | human | `GAT` | 2026-03-14 15:54:24 UTC |
-| 14 | abdksm | **0.40297732** | human | `GCN` | 2026-04-03 11:10:56 UTC |
+| 7 | El-Ikram | **0.63305426** | human | `GCN` | 2026-04-04 00:19:42 UTC |
+| 8 | Sanae ZRIGUI | **0.62051443** | human | `GCN ` | 2026-03-07 21:24:20 UTC |
+| 9 | emmakowu3579-ui | **0.61423345** | human | `Inductive GraphSAGE` | 2026-03-21 15:46:50 UTC |
+| 10 | VinitSingroha | **0.60909841** | human | `Dual-Path Degree-Gated GraphSAGE` | 2026-03-07 19:06:09 UTC |
+| 11 | Tasneem Selim | **0.59802280** | human | `` | 2026-03-06 21:05:52 UTC |
+| 12 | mahatrabelsi1 | **0.58539933** | human | `` | 2026-03-28 21:07:08 UTC |
+| 13 | samuelmatia | **0.52378556** | human | `Hybrid GNN` | 2026-03-27 12:20:52 UTC |
+| 14 | NoorMajdoub | **0.48952987** | human | `GAT` | 2026-03-14 15:54:24 UTC |
+| 15 | abdksm | **0.40297732** | human | `GCN` | 2026-04-03 11:10:56 UTC |

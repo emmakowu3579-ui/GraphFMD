@@ -14,8 +14,7 @@
 | 11 | Sanae ZRIGUI | **0.62051443** | human | `GCN ` | 2026-03-07 21:24:20 UTC |
 | 12 | emmakowu3579-ui | **0.61423345** | human | `Inductive GraphSAGE` | 2026-03-21 15:46:50 UTC |
 | 13 | VinitSingroha | **0.60909841** | human | `Dual-Path Degree-Gated GraphSAGE` | 2026-03-07 19:06:09 UTC |
-| 14 | Tasneem Selim | **0.59802280** | human | `` | 2026-03-06 21:05:52 UTC |
-| 15 | mahatrabelsi1 | **0.58539933** | human | `` | 2026-03-28 21:07:08 UTC |
-| 16 | samuelmatia | **0.52378556** | human | `Hybrid GNN` | 2026-03-27 12:20:52 UTC |
-| 17 | NoorMajdoub | **0.48952987** | human | `GAT` | 2026-03-14 15:54:24 UTC |
-| 18 | abdksm | **0.40297732** | human | `GCN` | 2026-04-03 11:10:56 UTC |
+| 14 | mahatrabelsi1 | **0.58539933** | human | `` | 2026-03-28 21:07:08 UTC |
+| 15 | samuelmatia | **0.52378556** | human | `Hybrid GNN` | 2026-03-27 12:20:52 UTC |
+| 16 | NoorMajdoub | **0.48952987** | human | `GAT` | 2026-03-14 15:54:24 UTC |
+| 17 | abdksm | **0.40297732** | human | `GCN` | 2026-04-03 11:10:56 UTC |

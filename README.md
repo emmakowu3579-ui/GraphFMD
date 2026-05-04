@@ -92,8 +92,8 @@ id: Transaction ID (must match test_nodes.csv).
 
 y_pred: The predicted class label:
 
-- 1: Illicit (Fraudulent)
-- 2: Licit (Legal)
+ 1: Illicit (Fraudulent)
+ 2: Licit (Legal)
 
 
 

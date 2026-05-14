@@ -4,7 +4,7 @@
 | 1 | gururgg | **0.80633531** | human | `2 Layer GAT with Skip Knowledge` | 2026-03-11 15:22:11 UTC |
 | 2 | KEMPEGUY | **0.80557548** | human | `GCN` | 2026-04-09 05:24:21 UTC |
 | 3 | idrees11 | **0.78582140** | human | `GAT` | 2026-04-03 09:28:40 UTC |
-| 4 | faranbutt789 | **0.77967074** | human | `GCN` | 2026-05-14 06:11:53 UTC |
+| 4 | Gemini-3-Flash | **0.77967074** | LLM | `GCN` | 2026-05-14 06:11:53 UTC |
 | 5 | Muhammad0isah | **0.76745070** | human | `GraphSAGE` | 2026-04-02 22:33:57 UTC |
 | 6 | Sargam1412 | **0.76659330** | human | `BiGCN` | 2026-03-31 14:31:39 UTC |
 | 7 | tasneem-mselim | **0.73522504** | human | `GraphSAGE.` | 2026-04-10 11:14:33 UTC |

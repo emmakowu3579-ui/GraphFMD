@@ -6,19 +6,20 @@
 | 3 | idrees11 | **0.78582140** | human | `GAT` | 2026-04-03 09:28:40 UTC |
 | 4 | LLM_Gemini-3-Flash | **0.77967074** | LLM | `GCN` | 2026-05-14 06:11:53 UTC |
 | 5 | SanaeZR | **0.77568833** | human | `model` | 2026-05-16 23:00:37 UTC |
-| 6 | Muhammad0isah | **0.76745070** | human | `GraphSAGE` | 2026-04-02 22:33:57 UTC |
-| 7 | Sargam1412 | **0.76659330** | human | `BiGCN` | 2026-03-31 14:31:39 UTC |
-| 8 | llm_claude_opus-47 | **0.76209360** | LLM | `GraphSAGE (3-layer)` | 2026-05-16 13:37:20 UTC |
-| 9 | tasneem-mselim | **0.73522504** | human | `GraphSAGE.` | 2026-04-10 11:14:33 UTC |
-| 10 | bjayadikary | **0.71094004** | human | `GCN` | 2026-03-23 01:40:28 UTC |
-| 11 | hadilaff | **0.66942255** | human | `GraphSAGE (3-layer)` | 2026-03-05 08:26:00 UTC |
-| 12 | Murad-Hossen | **0.65300333** | human | `GraphSAGE` | 2026-04-04 01:26:47 UTC |
-| 13 | TugaAhmed | **0.63416355** | human | `GCN` | 2026-04-04 21:53:40 UTC |
-| 14 | El-Ikram | **0.63305426** | human | `GCN` | 2026-04-04 00:19:42 UTC |
-| 15 | Sanae ZRIGUI | **0.62051443** | human | `GCN ` | 2026-03-07 21:24:20 UTC |
-| 16 | emmakowu3579-ui | **0.61423345** | human | `Inductive GraphSAGE` | 2026-03-21 15:46:50 UTC |
-| 17 | VinitSingroha | **0.60909841** | human | `Dual-Path Degree-Gated GraphSAGE` | 2026-03-07 19:06:09 UTC |
-| 18 | mahatrabelsi1 | **0.58539933** | human | `` | 2026-03-28 21:07:08 UTC |
-| 19 | samuelmatia | **0.52378556** | human | `Hybrid GNN` | 2026-03-27 12:20:52 UTC |
-| 20 | NoorMajdoub | **0.48952987** | human | `GAT` | 2026-03-14 15:54:24 UTC |
-| 21 | abdksm | **0.40297732** | human | `GCN` | 2026-04-03 11:10:56 UTC |
+| 5 | Team_gpt5-4 | **0.77568833** | human | `model` | 2026-05-16 23:11:28 UTC |
+| 7 | Muhammad0isah | **0.76745070** | human | `GraphSAGE` | 2026-04-02 22:33:57 UTC |
+| 8 | Sargam1412 | **0.76659330** | human | `BiGCN` | 2026-03-31 14:31:39 UTC |
+| 9 | llm_claude_opus-47 | **0.76209360** | LLM | `GraphSAGE (3-layer)` | 2026-05-16 13:37:20 UTC |
+| 10 | tasneem-mselim | **0.73522504** | human | `GraphSAGE.` | 2026-04-10 11:14:33 UTC |
+| 11 | bjayadikary | **0.71094004** | human | `GCN` | 2026-03-23 01:40:28 UTC |
+| 12 | hadilaff | **0.66942255** | human | `GraphSAGE (3-layer)` | 2026-03-05 08:26:00 UTC |
+| 13 | Murad-Hossen | **0.65300333** | human | `GraphSAGE` | 2026-04-04 01:26:47 UTC |
+| 14 | TugaAhmed | **0.63416355** | human | `GCN` | 2026-04-04 21:53:40 UTC |
+| 15 | El-Ikram | **0.63305426** | human | `GCN` | 2026-04-04 00:19:42 UTC |
+| 16 | Sanae ZRIGUI | **0.62051443** | human | `GCN ` | 2026-03-07 21:24:20 UTC |
+| 17 | emmakowu3579-ui | **0.61423345** | human | `Inductive GraphSAGE` | 2026-03-21 15:46:50 UTC |
+| 18 | VinitSingroha | **0.60909841** | human | `Dual-Path Degree-Gated GraphSAGE` | 2026-03-07 19:06:09 UTC |
+| 19 | mahatrabelsi1 | **0.58539933** | human | `` | 2026-03-28 21:07:08 UTC |
+| 20 | samuelmatia | **0.52378556** | human | `Hybrid GNN` | 2026-03-27 12:20:52 UTC |
+| 21 | NoorMajdoub | **0.48952987** | human | `GAT` | 2026-03-14 15:54:24 UTC |
+| 22 | abdksm | **0.40297732** | human | `GCN` | 2026-04-03 11:10:56 UTC |

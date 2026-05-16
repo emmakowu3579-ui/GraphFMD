@@ -7,7 +7,7 @@
 | 4 | LLM_Gemini-3-Flash | **0.77967074** | LLM | `GCN` | 2026-05-14 06:11:53 UTC |
 | 5 | Muhammad0isah | **0.76745070** | human | `GraphSAGE` | 2026-04-02 22:33:57 UTC |
 | 6 | Sargam1412 | **0.76659330** | human | `BiGCN` | 2026-03-31 14:31:39 UTC |
-| 7 | https://github.com/Murad-Hossen | **0.76209360** | human | `GraphSAGE (3-layer)` | 2026-05-16 13:37:20 UTC |
+| 7 | llm_claude_opus_47 | **0.76209360** | LLM | `GraphSAGE (3-layer)` | 2026-05-16 13:37:20 UTC |
 | 8 | tasneem-mselim | **0.73522504** | human | `GraphSAGE.` | 2026-04-10 11:14:33 UTC |
 | 9 | bjayadikary | **0.71094004** | human | `GCN` | 2026-03-23 01:40:28 UTC |
 | 10 | hadilaff | **0.66942255** | human | `GraphSAGE (3-layer)` | 2026-03-05 08:26:00 UTC |

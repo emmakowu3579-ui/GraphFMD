@@ -4,7 +4,7 @@ team,run_id,macro_f1,submitted_at,author_type,model,notes
 
 hadilaff,form-submission,0.66942255,2026-03-05 08:26:00 UTC,human,GraphSAGE (3-layer),Submitted via Secure Google Form
 VinitSingroha,form-submission,0.60909841,2026-03-07 19:06:09 UTC,human,Dual-Path Degree-Gated GraphSAGE,Submitted via Secure Google Form
-Sanae ZRIGUI,form-submission,0.62051443,2026-03-07 21:24:20 UTC,LLM,GCN ,Submitted via Secure Google Form
+Sanae ZRIGUI,form-submission,0.62051443,2026-03-07 21:24:20 UTC,human,GCN ,Submitted via Secure Google Form
 gururgg,form-submission,0.80633531,2026-03-11 15:22:11 UTC,human,2 Layer GAT with Skip Knowledge,Submitted via Secure Google Form
 NoorMajdoub,form-submission,0.48952987,2026-03-14 15:54:24 UTC,human,GAT,Submitted via Secure Google Form
 emmakowu3579-ui,form-submission,0.61423345,2026-03-21 15:46:50 UTC,human,Inductive GraphSAGE,Submitted via Secure Google Form
@@ -22,5 +22,4 @@ KEMPEGUY,form-submission,0.80557548,2026-04-09 05:24:21 UTC,human,GCN,Submitted 
 tasneem-mselim,form-submission,0.73522504,2026-04-10 11:14:33 UTC,human,GraphSAGE.,Submitted via Secure Google Form
 LLM_Gemini-3-Flash,form-submission,0.77967074,2026-05-14 06:11:53 UTC,LLM,GCN,Submitted via Secure Google Form
 llm_claude_opus-47,form-submission,0.76209360,2026-05-16 13:37:20 UTC,LLM,GraphSAGE (3-layer),Submitted via Secure Google Form
-SanaeZR,form-submission,0.77568833,2026-05-16 23:00:37 UTC,human,model,Submitted via Secure Google Form
-Team_gpt5-4,form-submission,0.77568833,2026-05-16 23:11:28 UTC,human,model,Submitted via Secure Google Form
+Team_gpt5-4,form-submission,0.77568833,2026-05-16 23:11:28 UTC,LLM,model,Submitted via Secure Google Form

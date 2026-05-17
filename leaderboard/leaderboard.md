@@ -4,7 +4,7 @@
 | 1 | gururgg | **0.80633531** | human | `2 Layer GAT with Skip Knowledge` | 2026-03-11 15:22:11 UTC |
 | 2 | KEMPEGUY | **0.80557548** | human | `GCN` | 2026-04-09 05:24:21 UTC |
 | 3 | idrees11 | **0.78582140** | human | `GAT` | 2026-04-03 09:28:40 UTC |
-| 4 | DeepSeek-v4-pro | **0.78145445** | human | `-` | 2026-05-17 09:19:49 UTC |
+| 4 | DeepSeek-v4-pro | **0.78145445** | LLM | `-` | 2026-05-17 09:19:49 UTC |
 | 5 | LLM_Gemini-3-Flash | **0.77967074** | LLM | `GCN` | 2026-05-14 06:11:53 UTC |
 | 6 | Team_gpt5-4 | **0.77568833** | LLM | `model` | 2026-05-16 23:11:28 UTC |
 | 7 | Muhammad0isah | **0.76745070** | human | `GraphSAGE` | 2026-04-02 22:33:57 UTC |

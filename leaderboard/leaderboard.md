@@ -3,7 +3,7 @@
 |---:|---|---:|---|---|---|
 | 1 | llm_gemini_25_pro | **0.83604370** | LLM | `GATv2` | 2026-05-17 16:10:48 UTC |
 | 2 | AiIkram | **0.81830220** | human | `GCN` | 2026-05-18 14:36:37 UTC |
-| 2 | Claude_opus_4_6 | **0.81830220** | human | `GCN` | 2026-05-18 14:43:32 UTC |
+| 2 | Claude_opus_4_6 | **0.81830220** | LLM | `GCN` | 2026-05-18 14:43:32 UTC |
 | 4 | gururgg | **0.80633531** | human | `2 Layer GAT with Skip Knowledge` | 2026-03-11 15:22:11 UTC |
 | 5 | KEMPEGUY | **0.80557548** | human | `GCN` | 2026-04-09 05:24:21 UTC |
 | 6 | idrees11 | **0.78582140** | human | `GAT` | 2026-04-03 09:28:40 UTC |
